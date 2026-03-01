@@ -40,17 +40,7 @@ flowchart LR
 ## ▌ ENGINEERING STACK
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" height="55"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" height="55"/>
-
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,linux,git,postgresql,fastapi" />
 </p>
 
 ---

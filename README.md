@@ -14,10 +14,16 @@
 
 ## ▌ INTELLIGENCE ARCHITECTURE
 
-Data → LLM → Agent Orchestration → API → Containers → Cluster → Monitoring  
+I design artificial intelligence systems that move beyond experimentation.
 
-Production-grade systems.  
-Scalable. Structured. Reliable.
+From raw data to monitored production pipelines,  
+my work focuses on reliability, scalability, and structural clarity.
+
+AI is not about models.
+
+AI is about systems that survive scale.
+
+---
 
 ---
 
@@ -53,7 +59,14 @@ flowchart LR
 </p>
 
 ---
+## ▌ CURRENT FOCUS
 
+• Large Language Model Fine-Tuning  
+• Agentic AI Architectures  
+• Scalable ML Infrastructure  
+• Intelligent System Design  
+
+---
 ## ▌ ENGINEERING BELIEF
 
 Architecture defines intelligence.  

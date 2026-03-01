@@ -41,26 +41,15 @@ flowchart LR
 
 <p align="center">
 
-<!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" height="65"/>
-
-<!-- LangChain -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" 
-     style="background-color:#1E293B; border-radius:14px; padding:14px;" 
-     height="65"/>
-
-<!-- LangGraph -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" 
-     style="background-color:#1E293B; border-radius:14px; padding:14px;" 
-     height="65"/>
-
-<!-- Oracle -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" 
-     style="background-color:#1E293B; border-radius:14px; padding:14px;" 
-     height="65"/>
-
-<!-- Rest -->
-<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,git,linux" height="65"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" height="55"/>
+<img src="https://cdn.simpleicons.org/langchain/00F5FF" height="55"/>
+<img src="https://cdn.simpleicons.org/langgraph/8B5CF6" height="55"/>
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="55"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="55"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="55"/>
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="55"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="55"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="55"/>
 
 </p>
 

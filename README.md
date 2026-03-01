@@ -41,15 +41,15 @@ flowchart LR
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" height="55"/>
-<img src="https://cdn.simpleicons.org/langchain/00F5FF" height="55"/>
-<img src="https://cdn.simpleicons.org/langgraph/8B5CF6" height="55"/>
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="55"/>
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="55"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="55"/>
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="55"/>
-<img src="https://cdn.simpleicons.org/git/F05032" height="55"/>
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" height="55"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" height="55"/>
 
 </p>
 

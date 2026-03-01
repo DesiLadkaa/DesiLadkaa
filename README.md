@@ -39,10 +39,23 @@ flowchart LR
 
 ## ▌ ENGINEERING STACK
 
-## ▌ ENGINEERING STACK
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,langchain,langgraph,oracle,fastapi,docker,kubernetes,git,linux" />
+
+<!-- Python First -->
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+
+<!-- LangChain -->
+<img src="https://cdn.simpleicons.org/langchain/00F5FF" height="60"/>
+
+<!-- LangGraph -->
+<img src="https://cdn.simpleicons.org/langgraph/8B5CF6" height="60"/>
+
+<!-- Oracle -->
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="60"/>
+
+<!-- Rest Skillicons -->
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,git,linux" height="60"/>
+
 </p>
 
 ---

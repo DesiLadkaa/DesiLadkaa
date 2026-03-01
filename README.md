@@ -41,20 +41,20 @@ flowchart LR
 
 <p align="center">
 
-<!-- Python First -->
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
+<!-- Python -->
+<img src="https://skillicons.dev/icons?i=python" height="65"/>
 
 <!-- LangChain -->
-<img src="https://cdn.simpleicons.org/langchain/00F5FF" height="60"/>
+<img src="https://img.shields.io/badge/-LangChain-1E293B?style=for-the-badge&logo=chainlink&logoColor=00F5FF" height="65"/>
 
 <!-- LangGraph -->
-<img src="https://cdn.simpleicons.org/langgraph/8B5CF6" height="60"/>
+<img src="https://img.shields.io/badge/-LangGraph-1E293B?style=for-the-badge&logo=graphql&logoColor=8B5CF6" height="65"/>
 
 <!-- Oracle -->
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="60"/>
+<img src="https://img.shields.io/badge/-Oracle-1E293B?style=for-the-badge&logo=oracle&logoColor=F80000" height="65"/>
 
-<!-- Rest Skillicons -->
-<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,git,linux" height="60"/>
+<!-- Rest -->
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,git,linux" height="65"/>
 
 </p>
 

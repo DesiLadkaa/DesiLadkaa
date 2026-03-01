@@ -25,8 +25,6 @@ AI is about systems that survive scale.
 
 ---
 
----
-
 ## ▌ AGENTIC FLOW
 
 ```mermaid

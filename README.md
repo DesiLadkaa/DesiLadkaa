@@ -39,18 +39,10 @@ flowchart LR
 
 ## ▌ ENGINEERING STACK
 
+## ▌ ENGINEERING STACK
+
 <p align="center">
-
-<img src="https://cdn.simpleicons.org/python/3776AB" height="55"/>
-<img src="https://cdn.simpleicons.org/langchain/00F5FF" height="55"/>
-<img src="https://cdn.simpleicons.org/langgraph/8B5CF6" height="55"/>
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="55"/>
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="55"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="55"/>
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="55"/>
-<img src="https://cdn.simpleicons.org/git/F05032" height="55"/>
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="55"/>
-
+  <img src="https://skillicons.dev/icons?i=python,langchain,langgraph,oracle,fastapi,docker,kubernetes,git,linux" />
 </p>
 
 ---

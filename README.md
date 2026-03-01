@@ -45,13 +45,19 @@ flowchart LR
 <img src="https://skillicons.dev/icons?i=python" height="65"/>
 
 <!-- LangChain -->
-<img src="https://img.shields.io/badge/-LangChain-1E293B?style=for-the-badge&logo=chainlink&logoColor=00F5FF" height="65"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" 
+     style="background-color:#1E293B; border-radius:14px; padding:14px;" 
+     height="65"/>
 
 <!-- LangGraph -->
-<img src="https://img.shields.io/badge/-LangGraph-1E293B?style=for-the-badge&logo=graphql&logoColor=8B5CF6" height="65"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" 
+     style="background-color:#1E293B; border-radius:14px; padding:14px;" 
+     height="65"/>
 
 <!-- Oracle -->
-<img src="https://img.shields.io/badge/-Oracle-1E293B?style=for-the-badge&logo=oracle&logoColor=F80000" height="65"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" 
+     style="background-color:#1E293B; border-radius:14px; padding:14px;" 
+     height="65"/>
 
 <!-- Rest -->
 <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,git,linux" height="65"/>

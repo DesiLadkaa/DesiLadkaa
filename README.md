@@ -41,13 +41,15 @@ flowchart LR
 
 <p align="center">
 
-<!-- Agentic Priority First -->
-<img src="https://img.shields.io/badge/LangChain-00F5FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<!-- Core Engineering -->
-<img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,git,linux" />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="55"/>
+<img src="https://cdn.simpleicons.org/langchain/00F5FF" height="55"/>
+<img src="https://cdn.simpleicons.org/langgraph/8B5CF6" height="55"/>
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="55"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="55"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="55"/>
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="55"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="55"/>
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="55"/>
 
 </p>
 
